@@ -12,6 +12,6 @@ Sou **Matheus Fernandes**, estudante de **Engenharia de Software na PUC Minas**.
 
 - [WeatherLab](https://github.com/fmatheus086-svg/weatherlab) · Aplicação web para consultar o clima.
 - [TripPlaner](https://github.com/fmatheus086-svg/tripplaner) · Projeto para organizar informações de viagem.
-- [DevWeb Conference](https://github.com/fmatheus086-svg/devweb-conference) · Interface para uma conferência de tecnologia.
+- [Clarity Brasil](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti1-7641100-clarity-brasil) · Projeto acadêmico em equipe na PUC Minas.
 
 [E-mail](mailto:fmatheus086@gmail.com) · [Todos os repositórios](https://github.com/fmatheus086-svg?tab=repositories)
