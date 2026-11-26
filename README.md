@@ -4,9 +4,9 @@
 <p><a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#contato">Contato</a></p>
 </div>
 
-## Da rotina ao código
+## Sobre mim
 
-Estudo **Engenharia de Software na PUC Minas** e desenvolvo aplicações web. No trabalho com **faturamento**, confiro informações e investigo divergências. Essa experiência despertou meu interesse por sistemas de gestão e pela automação de tarefas repetitivas.
+Estudo **Engenharia de Software na PUC Minas** e desenvolvo aplicações web com HTML, CSS e JavaScript. Tenho interesse em criar interfaces fáceis de usar e explorar projetos de automação.
 
 ## Projetos em destaque
 
@@ -33,3 +33,4 @@ Estudo **Engenharia de Software na PUC Minas** e desenvolvo aplicações web. No
 
 <a href="mailto:fmatheus086@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
 <a href="https://github.com/fmatheus086-svg?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios"></a>
+
