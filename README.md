@@ -1,60 +1,35 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:1D4ED8,100:0F766E&amp;height=110&amp;section=header" width="100%" alt="">
-
 <h1>Matheus Fernandes</h1>
-
-<p><strong>Engenharia de Software na PUC Minas · Desenvolvimento Web</strong></p>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-854D0E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-</p>
-
-<p><a href="#projetos-em-destaque">Ver projetos</a> &nbsp;·&nbsp; <a href="https://github.com/fmatheus086-svg?tab=repositories">Explorar repositórios</a></p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3300&amp;pause=1400&amp;color=288AC4&amp;center=true&amp;vCenter=true&amp;width=465&amp;height=42&amp;lines=Engenharia%20de%20Software%20%7C%20PUC%20Minas%3BDesenvolvimento%20web%20na%20pr%C3%A1tica%3BInterfaces%2C%20dados%20e%20automa%C3%A7%C3%A3o" width="465" alt="Engenharia de Software na PUC Minas, desenvolvimento web, dados e automação">
+<p><a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#contato">Contato</a></p>
 </div>
 
-## Sobre mim
+## Da rotina ao código
 
-Curso **Engenharia de Software na PUC Minas** e desenvolvo projetos web com HTML, CSS e JavaScript. No meu trabalho com **faturamento e análise de dados**, lido com conferência de informações e identificação de divergências. Essa experiência orienta meu interesse por interfaces claras e sistemas que facilitem rotinas de trabalho.
+Estudo **Engenharia de Software na PUC Minas** e desenvolvo aplicações web. No trabalho com **faturamento**, confiro informações e investigo divergências. Essa experiência despertou meu interesse por sistemas de gestão e pela automação de tarefas repetitivas.
 
 ## Projetos em destaque
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>☁️ WeatherLab</h3>
-<p>Aplicação web para consultar informações meteorológicas. É o destaque do meu portfólio em JavaScript.</p>
-<p><a href="https://github.com/fmatheus086-svg/weatherlab"><strong>Ver WeatherLab →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>🧭 TripPlaner</h3>
-<p>Projeto de planejamento de viagens, com foco em organizar informações em uma interface web.</p>
-<p><a href="https://github.com/fmatheus086-svg/tripplaner"><strong>Ver TripPlaner →</strong></a></p>
-</td>
+<td width="50%" valign="top"><h3>🌦️ WeatherLab</h3><p>Aplicação em JavaScript para consultar informações meteorológicas.</p><a href="https://github.com/fmatheus086-svg/weatherlab">Ver projeto ↗</a></td>
+<td width="50%" valign="top"><h3>🧭 TripPlaner</h3><p>Projeto em JavaScript para organizar informações de viagem.</p><a href="https://github.com/fmatheus086-svg/tripplaner">Ver projeto ↗</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>💻 DevWeb Conference</h3>
-<p>Projeto de interface para uma conferência de tecnologia, com foco na apresentação de informações sobre o evento.</p>
-<p><a href="https://github.com/fmatheus086-svg/devweb-conference"><strong>Ver DevWeb Conference →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>🍳 Receita Interativa</h3>
-<p>Página de receita que explora como elementos interativos podem facilitar a leitura de um passo a passo.</p>
-<p><a href="https://github.com/fmatheus086-svg/Receita-Interativa"><strong>Ver Receita Interativa →</strong></a></p>
-</td>
+<td width="50%" valign="top"><h3>🎟️ DevWeb Conference</h3><p>Interface que reúne informações para participantes de uma conferência.</p><a href="https://github.com/fmatheus086-svg/devweb-conference">Ver projeto ↗</a></td>
+<td width="50%" valign="top"><h3>🍳 Receita Interativa</h3><p>Página interativa que apresenta o passo a passo de uma receita.</p><a href="https://github.com/fmatheus086-svg/Receita-Interativa">Ver projeto ↗</a></td>
 </tr>
 </table>
 
-## Áreas de interesse
+## Tecnologias
 
-- **Front-end** — interfaces responsivas e interações com JavaScript.
-- **Sistemas de gestão** — organização de dados, relatórios e fluxos operacionais.
-- **Automação** — redução de tarefas manuais em rotinas administrativas.
+<img src="https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-854D0E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Git-B93824?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:1D4ED8,100:0F766E&amp;height=65&amp;section=footer" width="100%" alt="">
+## Contato
+
+<a href="mailto:fmatheus086@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
+<a href="https://github.com/fmatheus086-svg?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios"></a>
