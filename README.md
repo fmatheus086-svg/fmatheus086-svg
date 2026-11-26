@@ -1,36 +1,17 @@
-<div align="center">
-<h1>Matheus Fernandes</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3300&amp;pause=1400&amp;color=288AC4&amp;center=true&amp;vCenter=true&amp;width=465&amp;height=42&amp;lines=Engenharia%20de%20Software%20%7C%20PUC%20Minas%3BDesenvolvimento%20web%20na%20pr%C3%A1tica%3BInterfaces%2C%20dados%20e%20automa%C3%A7%C3%A3o" width="465" alt="Engenharia de Software na PUC Minas, desenvolvimento web, dados e automação">
-<p><a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#contato">Contato</a></p>
-</div>
+# Oi, eu sou o Matheus 👋
 
-## Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=2800&amp;pause=1600&amp;color=288AC4&amp;width=330&amp;height=28&amp;lines=Desenvolvimento+web;Aprendendo+na+pr%C3%A1tica" alt="Desenvolvimento web e aprendizado na prática" width="330">
 
-Estudo **Engenharia de Software na PUC Minas** e desenvolvo aplicações web com HTML, CSS e JavaScript. Tenho interesse em criar interfaces fáceis de usar e explorar projetos de automação.
+Sou **Matheus Fernandes**, estudante de **Engenharia de Software na PUC Minas**. Gosto de criar interfaces web e aprender testando ideias em projetos.
 
-## Projetos em destaque
+### Tecnologias
 
-<table>
-<tr>
-<td width="50%" valign="top"><h3>🌦️ WeatherLab</h3><p>Aplicação em JavaScript para consultar informações meteorológicas.</p><a href="https://github.com/fmatheus086-svg/weatherlab">Ver projeto ↗</a></td>
-<td width="50%" valign="top"><h3>🧭 TripPlaner</h3><p>Projeto em JavaScript para organizar informações de viagem.</p><a href="https://github.com/fmatheus086-svg/tripplaner">Ver projeto ↗</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>🎟️ DevWeb Conference</h3><p>Interface que reúne informações para participantes de uma conferência.</p><a href="https://github.com/fmatheus086-svg/devweb-conference">Ver projeto ↗</a></td>
-<td width="50%" valign="top"><h3>🍳 Receita Interativa</h3><p>Página interativa que apresenta o passo a passo de uma receita.</p><a href="https://github.com/fmatheus086-svg/Receita-Interativa">Ver projeto ↗</a></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="HTML, CSS, JavaScript, Git e GitHub" width="205">
 
-## Tecnologias
+### Projetos
 
-<img src="https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-854D0E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/Git-B93824?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+- [WeatherLab](https://github.com/fmatheus086-svg/weatherlab) · Aplicação web para consultar o clima.
+- [TripPlaner](https://github.com/fmatheus086-svg/tripplaner) · Projeto para organizar informações de viagem.
+- [DevWeb Conference](https://github.com/fmatheus086-svg/devweb-conference) · Interface para uma conferência de tecnologia.
 
-## Contato
-
-<a href="mailto:fmatheus086@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
-<a href="https://github.com/fmatheus086-svg?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios"></a>
-
+[E-mail](mailto:fmatheus086@gmail.com) · [Todos os repositórios](https://github.com/fmatheus086-svg?tab=repositories)
