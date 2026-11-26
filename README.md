@@ -1,5 +1,7 @@
 # Oi, eu sou o Matheus 👋
 
+> **Do primeiro rascunho ao deploy, desenvolvo para resolver problemas reais.**
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=2800&amp;pause=1600&amp;color=288AC4&amp;width=330&amp;height=28&amp;lines=Desenvolvimento+web;Aprendendo+na+pr%C3%A1tica" alt="Desenvolvimento web e aprendizado na prática" width="330">
 
 Sou **Matheus Fernandes**, estudante de **Engenharia de Software na PUC Minas**. Gosto de criar interfaces web e aprender testando ideias em projetos.
